@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Shinare</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="akashshinare" /> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="akashshinare" width="400"/> </p>
 
 - 🌱 I’m currently learning **full stack web developer**
 
